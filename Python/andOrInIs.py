@@ -1,0 +1,7 @@
+print (True or False)
+print (True and False)
+print (not True)
+print ('s' in  'space')
+print ('s' is 's')
+print ( ' ' is ' ')
+print ( { } is { })
