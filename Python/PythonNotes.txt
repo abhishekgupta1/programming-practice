@@ -1,3 +1,8 @@
+
+Python Concepts
+It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes
+
+
 Python is completely object oriented, and not "statically typed". You do not need to declare variables before using them, or declare their type. Every variable in Python is an object.
 
  integers(whole numbers) and floating point numbers(decimals).
